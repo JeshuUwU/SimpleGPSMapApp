@@ -7,6 +7,8 @@ Mostrar la ubicación actual en un mapa.
 ## Instrucciones de Ejecución
 
 Clona el repositorio: git clone https://github.com/JeshuUwU/SimpleGPSMapApp.git
+
 Abre el proyecto en Android Studio.
 Añade tu API Key de Google Maps en `res/values/google_maps_api.xml.
+
 
